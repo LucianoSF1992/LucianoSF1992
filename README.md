@@ -35,7 +35,7 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
-- Tenho um repositório para ajudar e guiar pessoas na sua trilha de desenvolvimento.  [:link:](https://github.com/LucianoSF1992/guiadevbrasil)
+- Repositório para ajudar e guiar pessoas na sua trilha de desenvolvimento.  [:link:](https://github.com/LucianoSF1992/guiadevbrasil)
 
 - Gosto de conhecer coisas novas, trabalhar em grupo e obter novas experiências. 😄
 
