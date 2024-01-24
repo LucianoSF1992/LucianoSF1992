@@ -20,7 +20,7 @@ Olá, eu sou o Luciano! 🇧🇷
 
 ```
 Formado em Sistemas de Informação pela Multivix, 
-sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+sou fascinado por computação desde criança e atualmente sou diretor da Unidade Next Tecnologia Vitória ES.
 ```
 ## Tecnologias que domino 💻
 
