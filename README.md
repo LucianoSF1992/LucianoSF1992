@@ -43,12 +43,8 @@ sou fascinado por computação desde criança e atualmente sou diretor da Unidad
 
 ## Meus dados no Github
 
-<!-- <span style="height ">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoSF1992&show_icons=true&theme=tokyonight)
-</span> -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoSF1992&show_icons=true&theme=tokyonight)
-[![LucianoSF1992](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoSF1992&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/LucianoSF1992/)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurspk&layout=compact&theme=tokyonight) -->
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoSF1992&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoSF1992&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
