@@ -33,13 +33,13 @@ sou fascinado por computação desde criança e atualmente sou diretor da Unidad
   - SQL
   - MySQL
 
-## Alguns fatos sobre mim 👨🏻‍💻
-
 - Repositório para ajudar e guiar pessoas na sua trilha de desenvolvimento.  [:link:](https://github.com/LucianoSF1992/guiadevbrasil)
+
+  ## Alguns fatos sobre mim 👨🏻‍💻
 
 - Gosto de conhecer coisas novas, trabalhar em grupo e obter novas experiências. 😄
 
-- Estou cursando Pós-Graduação em Desenvolvimento de Aplicações .Net e Desenvolvimento de Sistemas com C# na Faculeste. 💻
+- Estou cursando Pós-Graduação em Desenvolvimento Full Stack na Estácio. 💻
 
 ## Meus dados no Github
 
