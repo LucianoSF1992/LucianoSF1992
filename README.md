@@ -20,13 +20,14 @@ Olá, eu sou o Luciano! 🇧🇷
 
 ```
 Formado em Sistemas de Informação pela Multivix, 
-sou fascinado por computação desde criança e atualmente sou diretor da Unidade Next Tecnologia Vitória ES.
+sou fascinado por computação desde criança e atualmente busco oportunidade para trabalhar como Desenvolvedor Full Stack.
 ```
 ## Tecnologias que domino 💻
 
   - HTML
   - CSS
   - JavaScript
+  - Python
   - C#
   - .Net
   - Java
@@ -39,7 +40,7 @@ sou fascinado por computação desde criança e atualmente sou diretor da Unidad
 
 - Gosto de conhecer coisas novas, trabalhar em grupo e obter novas experiências. 😄
 
-- Estou cursando Pós-Graduação em Desenvolvimento Full Stack na Estácio. 💻
+- Tenho 2 Pós-Graduações em Desenvolvimento de software. 💻
 
 ## Meus dados no Github
 
