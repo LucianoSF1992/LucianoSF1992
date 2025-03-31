@@ -27,7 +27,11 @@ sou fascinado por computação desde criança e atualmente busco oportunidade pa
   - HTML
   - CSS
   - JavaScript
+  - NodeJS
+  - React
+  - Angular
   - Python
+  - PHP
   - C#
   - .Net
   - Java
