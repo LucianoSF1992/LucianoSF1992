@@ -32,6 +32,7 @@ sou fascinado por computação desde criança e atualmente busco oportunidade pa
   - Angular
   - Python
   - PHP
+  - ASP.NET Core
   - C#
   - .Net
   - Java
