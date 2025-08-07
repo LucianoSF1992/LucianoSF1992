@@ -19,8 +19,21 @@ Olá, eu sou o Luciano! 🇧🇷
 </h3>
 
 ```
-Formado em Sistemas de Informação pela Multivix, 
-sou fascinado por computação desde criança e atualmente busco oportunidade para trabalhar como Desenvolvedor Full Stack.
+Olá, eu sou o Luciano Silva Ferreira.
+
+Formado em Sistemas de Informação pela Multivix e pós-graduado em Desenvolvimento de Software, 
+sou fascinado por computação desde criança.
+
+Se você procura um desenvolvedor comprometido, dedicado e com uma forte vontade de crescer na área, sinta-se à vontade para entrar em contato comigo. Estou sempre pronto para aprender e crescer junto com a equipe.
+
+## Alguns fatos sobre mim 👨🏻‍💻
+
+- Gosto de conhecer coisas novas, trabalhar em grupo e obter novas experiências. 
+
+- Também trabalho como Árbitro Assistente em jogos de futebol aqui pela Federação de Futebol do meu estado Espírito Santo.
+
+- Quando não estou estudando ou trabalhando me dedico à alguns hobbies como musculação, ler, jogar videogame, assistir filmes, assistir séries, visitar familiares, visitar amigos, sair com minha esposa, ver jogos de futebol.
+
 ```
 ## Tecnologias que domino 💻
 
@@ -37,15 +50,9 @@ sou fascinado por computação desde criança e atualmente busco oportunidade pa
   - .Net
   - Java
   - SQL
-  - MySQL
+  - NoSQL
 
 - Repositório para ajudar e guiar pessoas na sua trilha de desenvolvimento.  [:link:](https://github.com/LucianoSF1992/guiadevbrasil)
-
-  ## Alguns fatos sobre mim 👨🏻‍💻
-
-- Gosto de conhecer coisas novas, trabalhar em grupo e obter novas experiências. 😄
-
-- Tenho 2 Pós-Graduações em Desenvolvimento de software. 💻
 
 ## Meus dados no Github
 
