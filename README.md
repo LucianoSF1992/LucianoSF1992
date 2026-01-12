@@ -45,7 +45,6 @@ Se você procura um desenvolvedor comprometido, dedicado e com uma forte vontade
   - Angular
   - Python
   - PHP
-  - ASP.NET Core
   - C#
   - .Net
   - Java
