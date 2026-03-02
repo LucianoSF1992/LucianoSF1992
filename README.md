@@ -31,3 +31,11 @@ Estou aberto a oportunidades como Desenvolvedor .NET / Full Stack, mantendo tamb
 
 - Repositório para ajudar e guiar pessoas na sua trilha de desenvolvimento.  [:link:](https://github.com/LucianoSF1992/guiadevbrasil)
 
+## Meus dados no Github
+
+<div>
+<a href="https://github.com/LucianoSF1992">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoSF1992&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoSF1992&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
