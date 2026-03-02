@@ -19,37 +19,15 @@ Olá, eu sou o Luciano! 🇧🇷
 </h3>
 
 ```
-Olá, eu sou o Luciano Silva Ferreira.
+Sou Desenvolvedor Full Stack .NET, focado na construção de aplicações web modernas, performáticas e escaláveis.
 
-Formado em Sistemas de Informação pela Multivix e pós-graduado em Desenvolvimento de Software, 
-sou fascinado por computação desde criança.
+Trabalho principalmente com ASP.NET Core, C#, .NET, Entity Framework e SQL Server, desenvolvendo APIs REST e aplicando boas práticas como Clean Code e arquitetura em camadas.
 
-Se você procura um desenvolvedor comprometido, dedicado e com uma forte vontade de crescer na área, sinta-se à vontade para entrar em contato comigo. Estou sempre pronto para aprender e crescer junto com a equipe.
+Atualmente venho desenvolvendo projetos próprios para consolidar minhas habilidades, incluindo a plataforma TreineMais, além do meu portfólio profissional.
 
-## Alguns fatos sobre mim 👨🏻‍💻
+🚀 Portfólio: www.lucianoferreiradev.com
 
-- Gosto de conhecer coisas novas, trabalhar em grupo e obter novas experiências. 
-
-- Também trabalho como Árbitro Assistente em jogos de futebol aqui pela Federação de Futebol do meu estado Espírito Santo.
-
-- Quando não estou estudando ou trabalhando me dedico à alguns hobbies como musculação, ler, jogar videogame, assistir filmes, assistir séries, visitar familiares, visitar amigos, sair com minha esposa, ver jogos de futebol.
-
-```
-## Tecnologias que domino 💻
-
-  - HTML
-  - CSS
-  - JavaScript
-  - NodeJS
-  - React
-  - Angular
-  - Python
-  - PHP
-  - C#
-  - .Net
-  - Java
-  - SQL
-  - NoSQL
+Estou aberto a oportunidades como Desenvolvedor .NET / Full Stack, mantendo também interesse em outras tecnologias do ecossistema web.
 
 - Repositório para ajudar e guiar pessoas na sua trilha de desenvolvimento.  [:link:](https://github.com/LucianoSF1992/guiadevbrasil)
 
