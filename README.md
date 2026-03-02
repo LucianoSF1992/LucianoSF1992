@@ -13,7 +13,16 @@
 
 <h3 align="center">  <br>
 
-Olá, eu sou o Luciano! 🇧🇷
+# 👋 Olá, eu sou o Luciano Ferreira
+
+💻 Desenvolvedor Full Stack .NET  
+🚀 Focado em aplicações web modernas e APIs REST  
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 <br>
 
 </h3>
@@ -25,17 +34,45 @@ Trabalho principalmente com ASP.NET Core, C#, .NET, Entity Framework e SQL Serve
 
 Atualmente venho desenvolvendo projetos próprios para consolidar minhas habilidades, incluindo a plataforma TreineMais, além do meu portfólio profissional.
 
-🚀 Portfólio: www.lucianoferreiradev.com
+## 🌐 Portfólio
+
+🔗 https://www.lucianoferreiradev.com
 
 Estou aberto a oportunidades como Desenvolvedor .NET / Full Stack, mantendo também interesse em outras tecnologias do ecossistema web.
 
-- Repositório para ajudar e guiar pessoas na sua trilha de desenvolvimento.  [:link:](https://github.com/LucianoSF1992/guiadevbrasil)
+## 🧠 Tecnologias principais
+
+- C#
+- .NET / ASP.NET Core
+- Entity Framework
+- SQL Server
+- HTML, CSS e JavaScript
+- Git e GitHub
+
+## ⭐ Projeto em destaque
+
+### 🔹 TreineMais
+
+Plataforma web para gestão de treinos físicos.
+
+**Principais recursos:**
+
+- APIs REST com ASP.NET Core  
+- Arquitetura em camadas  
+- Entity Framework  
+- Interface responsiva  
+
+🔗 Em breve online
+
+📘 Repositório com materiais de estudo:
+🔗 https://github.com/LucianoSF1992/guiadevbrasil
 
 ## Meus dados no Github
 
-<div>
-<a href="https://github.com/LucianoSF1992">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoSF1992&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LucianoSF1992&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoSF1992&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=LucianoSF1992&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </div>
 
