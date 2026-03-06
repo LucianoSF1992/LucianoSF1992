@@ -106,7 +106,3 @@ Tecnologias:
 - Nginx
 
 ---
-
-![Luciano GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoSF1992&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoSF1992&layout=compact)
