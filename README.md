@@ -56,7 +56,7 @@ Também venho desenvolvendo outros projetos, como um sistema de agendamento de s
 
 # 🚀 Projetos principais
 
-### 🏋️ TreineMais
+### 🏋️ TreineMais (MVP concluído)
 Sistema web para academias e personal trainers criarem treinos e gerenciarem alunos.
 
 Tecnologias:
@@ -73,14 +73,25 @@ https://treinemais.lucianoferreiradev.com
 
 ---
 
-### 📅 Sistema de Agendamento
-Sistema web para agendamento de serviços com controle de horários e clientes.
+### 📅 AgendaPro (MVP concluído)
+Sistema web completo para gerenciamento de agendamentos de serviços, com controle de clientes, profissionais, serviços, horários e relatórios.
+
+Principais funcionalidades:
+- Autenticação com ASP.NET Core Identity
+- Controle de usuários (Admin e Profissional)
+- Cadastro de clientes, serviços e profissionais
+- Criação e gerenciamento de agendamentos
+- Validação de conflito de horários
+- Dashboard com indicadores
+- Relatórios por período
 
 Tecnologias:
-
-- ASP.NET Core
-- C#
+- ASP.NET Core MVC
+- Entity Framework Core
 - SQL Server
+
+🌐 Sistema publicado
+https://agendapro.lucianoferreiradev.com
 
 ---
 
